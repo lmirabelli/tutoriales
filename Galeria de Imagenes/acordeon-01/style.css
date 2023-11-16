@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.background{
+    background-color: #3c343d;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    max-width: 1200px;
+}
+
+.card{
+    position: relative;
+    left: 0px;
+    width: 80px;
+    border-radius: 16px;
+    height: 360px;
+    overflow: hidden;
+    transition: 400ms ease-in-out;
+    box-shadow: 0 5px 12px #000;
+    flex: 0.25;
+}
+
+.card img{
+    height: 360px;
+}
+
+.card:hover{
+    flex: 2;
+    cursor: pointer;
+    border-radius: 8px;
+}
