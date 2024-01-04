@@ -1,0 +1,65 @@
+[
+    {
+        "jugador": "gabriel batistuta",
+        "fechaNacimiento": "01/02/1969",
+        "nacionalidad": "argentina",
+        "cantera": "newell's old boys (arg)",
+        "imagen": "images/gabriel-batistuta.jpg"
+    },
+    {
+        "jugador": "diego maradona",
+        "fechaNacimiento": "30/10/1960",
+        "nacionalidad": "argentina",
+        "cantera": "argentinos juniors (arg)",
+        "imagen": "images/diego-maradona.jpg"
+    },
+    {
+        "jugador": "lionel messi",
+        "fechaNacimiento": "24/06/1987",
+        "nacionalidad": "argentina",
+        "cantera": "newell's old boys (arg)",
+        "imagen": "images/lionel-messi.jpg"
+    },
+    {
+        "jugador": "andriy shevchenko",
+        "fechaNacimiento": "29/09/1976",
+        "nacionalidad": "ucrania",
+        "cantera": "dinamo kiev (ukr)",
+        "imagen": "images/andriy-shevchenko.jpg"
+    },
+    {
+        "jugador": "javier zanetti",
+        "fechaNacimiento": "10/08/1973",
+        "nacionalidad": "argentina",
+        "cantera": "talleres -re- (arg)",
+        "imagen": "images/javier-zanetti.jpg"
+    },
+    {
+        "jugador": "enzo francescoli",
+        "fechaNacimiento": "12/11/1961",
+        "nacionalidad": "uruguay",
+        "cantera": "montevideo wanderers (uru)",
+        "imagen": "images/enzo-francescoli.jpg"
+    },
+    {
+        "jugador": "juan riquelme",
+        "fechaNacimiento": "24/06/1978",
+        "nacionalidad": "argentina",
+        "cantera": "argentinos juniors (arg)",
+        "imagen": "images/juan-riquelme.jpg"
+    },
+    {
+        "jugador": "francesco totti",
+        "fechaNacimiento": "27/09/1976",
+        "nacionalidad": "italia",
+        "cantera": "roma (ita)",
+        "imagen": "images/francesco-totti.webp"
+    },
+    {
+        "jugador": "carlos valderrama",
+        "fechaNacimiento": "02/09/1961",
+        "nacionalidad": "colombia",
+        "cantera": "union magdalena (col)",
+        "imagen": "images/carlos-valderrama.jpg"
+    }
+]
